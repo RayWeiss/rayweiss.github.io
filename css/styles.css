@@ -1,11 +1,11 @@
 .btn {
-	box-shadow:inset 0px 1px 3px 0px #5473a6;
-	background-color:#5473a6;
+	box-shadow:inset 0px 1px 3px 0px #383838;
+	background-color:#383838;
 	border-radius:5px;
-	border:1px solid #5473a6;
+	border:1px solid #383838;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:#a9a9a9;
     font-family:Helvetica;
     font-size:100px;
     font-weight:bold;
@@ -14,15 +14,15 @@
     margin-right: 0 auto;
     padding: 20px;
     text-decoration:none;
-    text-shadow:0px -1px 0px #5473a6;
+    text-shadow:0px -1px 0px #383838;
 }
 .btn:hover {
-	background-color:#5473a6;
+	background-color:#383838;
 }
 .btn:active {
 	position:relative;
 	top:1px;
 }
 body {
-    background-color: #dae1e7;
+    background-color: #0d0d0d;
 }
